@@ -4,5 +4,8 @@ public class Program {
         Triangle tri = new Triangle();
         tri.paint();
 
+        TriangleEquilateral triEq = new TriangleEquilateral(15);
+        triEq.paint();
+
     }
 }
